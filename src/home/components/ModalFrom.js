@@ -53,8 +53,8 @@ const styles = StyleSheet.create({
     width: '90%',
     backgroundColor: '#fff',
     position: 'absolute',
-    top: '15%',
-    right: '5%',
+    top: 10,
+    right: 20,
     padding: 20,
     borderRadius: 20.
   },

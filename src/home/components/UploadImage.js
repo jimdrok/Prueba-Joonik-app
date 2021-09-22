@@ -66,14 +66,15 @@ export default function UploadImage() {
 
 const styles = StyleSheet.create({
   cont: {
-    width: '40%',
-    height: '23%',
+    width: 170,
+    height: 160,
     alignItems: 'center',
     alignSelf: 'center',
     padding: 15,
     borderRadius: 10,
     borderColor: '#E3E3E3',
     borderWidth: 2,
+  
 
   },
   getPhoto: {
