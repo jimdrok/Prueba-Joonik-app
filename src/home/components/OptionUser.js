@@ -18,8 +18,8 @@ export default function OptionUser({
 const styles = StyleSheet.create({
   optionUserCont:{
     position: 'absolute',
-    top: '8%',
-    left: '8%',
+    top: 50,
+    left: 45,
     width: '30%',
     paddingVertical: 5,
     paddingHorizontal: 10,
